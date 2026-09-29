@@ -1,0 +1,19 @@
+{
+  "pools": {
+    "copper": 0,
+    "low_grade_spirit_stone": 3,
+    "mid_grade_spirit_stone": 0,
+    "high_grade_spirit_stone": 0,
+    "top_grade_spirit_stone": 0,
+    "emotion_points": 0
+  },
+  "pools_baseline": {
+    "copper": 0,
+    "low_grade_spirit_stone": 3,
+    "mid_grade_spirit_stone": 0,
+    "high_grade_spirit_stone": 0,
+    "top_grade_spirit_stone": 0,
+    "emotion_points": 0
+  },
+  "transactions": []
+}

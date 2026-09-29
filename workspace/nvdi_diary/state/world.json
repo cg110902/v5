@@ -1,0 +1,10 @@
+{
+  "universe_id": "universe_prime",
+  "clock": {
+    "current_day": 1,
+    "current_hour": 8,
+    "diurnal_cycle": "morning",
+    "weather": "clear"
+  },
+  "regional_tension": {}
+}

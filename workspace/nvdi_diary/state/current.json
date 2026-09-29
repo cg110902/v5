@@ -1,0 +1,21 @@
+{
+  "chapter_id": "ch_001",
+  "volume_id": "vol_01",
+  "total_words": 0,
+  "time": "太衍仙宗百年大典清晨·辰时",
+  "location": "loc_001",
+  "location_name": "太衍仙宗·万仙台",
+  "protagonist_status": {
+    "health": "healthy",
+    "injury_level": 0,
+    "spiritual_state": "calm",
+    "power_tier": "外门杂役弟子（凡胎，未入道）",
+    "current_action": "在万仙台边缘直面管事赵天成的发难与践踏"
+  },
+  "present_persons": [
+    "p_001",
+    "p_002",
+    "p_003"
+  ],
+  "scene_summary": "太衍仙宗百年开派盛典，数万修士齐聚万仙台。外门大管事赵天成当众踩碎陆沉的杂役铭牌欲废其修为立威，天幕撕裂苍穹即刻降临。"
+}

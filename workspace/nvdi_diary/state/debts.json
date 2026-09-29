@@ -1,0 +1,18 @@
+{
+  "p_001": {
+    "p_002": {
+      "debt_id": "DEBT-001",
+      "category": "blood_feud",
+      "nature": "赵天成滥用职权，当众践踏陆沉杂役铭牌，欲废黜其修为并逐出万丈绝峰",
+      "status": "pending",
+      "target_clear_chapter": "ch_004"
+    },
+    "p_003": {
+      "debt_id": "DEBT-002",
+      "category": "moral_life_debt",
+      "nature": "南宫琉璃欠下八百年前救命重恩与至尊剑骨相赠因果，高高在上视恩公为微尘草芥之罪障",
+      "status": "pending",
+      "target_clear_chapter": "ch_030"
+    }
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "fac_001": {
+    "id": "fac_001",
+    "name": "太衍仙宗",
+    "type": "faction",
+    "scale_tier": "东荒顶尖仙宗",
+    "leader": "南宫琉璃",
+    "headquarters": "太衍绝峰·万仙台",
+    "attitude_to_protagonist": "neutral",
+    "status": "active"
+  },
+  "fac_002": {
+    "id": "fac_002",
+    "name": "真武神宗",
+    "type": "faction",
+    "scale_tier": "东荒顶级圣地",
+    "leader": "真武神尊",
+    "headquarters": "真武绝顶·巨岳神殿",
+    "attitude_to_protagonist": "hostile",
+    "status": "active"
+  },
+  "fac_003": {
+    "id": "fac_003",
+    "name": "东荒散修联盟",
+    "type": "faction",
+    "scale_tier": "庞大民间群体",
+    "leader": "青云散人",
+    "headquarters": "东荒万仙城坊市",
+    "attitude_to_protagonist": "neutral",
+    "status": "active"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "golden_finger": {
+    "system_id": "GF_001",
+    "owner_character_id": "p_001",
+    "name": "九世轮回编造系统",
+    "current_stage_id": "stage_1",
+    "stages": {
+      "stage_1": {
+        "stage_id": "stage_1",
+        "stage_name": "第一世·至尊剑骨觉醒",
+        "stage_order": 1,
+        "unlock_chapter": 1,
+        "max_energy": 100,
+        "recharge_rate_per_chapter": 15
+      }
+    },
+    "current_energy": 100
+  }
+}

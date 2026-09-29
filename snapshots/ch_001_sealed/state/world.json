@@ -1,0 +1,13 @@
+{
+  "universe_id": "universe_prime",
+  "clock": {
+    "current_day": 1,
+    "current_hour": 12,
+    "diurnal_cycle": "noon",
+    "weather": "clear",
+    "environment_constraints": []
+  },
+  "active_macro_events": {},
+  "regional_tension": {},
+  "location_states": {}
+}

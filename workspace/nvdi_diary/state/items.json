@@ -1,0 +1,41 @@
+{
+  "item_001": {
+    "id": "item_001",
+    "name": "青木杂役铭牌",
+    "type": "item",
+    "tier": "凡品（一阶）",
+    "holder": "陆沉",
+    "charges": 0,
+    "max_charges": 0,
+    "cost_per_use": "无消耗",
+    "durability": 0,
+    "status": "destroyed",
+    "sensory_anchor": "被踩碎成数截的青黑劣质木牌，边缘残留靴底污印与深刻的划痕"
+  },
+  "item_002": {
+    "id": "item_002",
+    "name": "天道轮回神石",
+    "type": "item",
+    "tier": "无上神品（超越九阶/天道造化）",
+    "holder": "天地法则",
+    "charges": 100,
+    "max_charges": 100,
+    "cost_per_use": "编造因果剧本与引动天地法则",
+    "durability": 100,
+    "status": "active",
+    "sensory_anchor": "撕裂万里穹苍的九色晶碑天幕，垂落浩瀚天道金光，威压九州万灵"
+  },
+  "item_003": {
+    "id": "item_003",
+    "name": "无锈铁剑",
+    "type": "item",
+    "tier": "凡品（一阶，暗藏极道剑意胚胎）",
+    "holder": "陆沉",
+    "charges": 0,
+    "max_charges": 100,
+    "cost_per_use": "微末凡俗气力",
+    "durability": 50,
+    "status": "active",
+    "sensory_anchor": "长三尺二寸、剑刃多处微卷但通体无一丝锈迹的沉重生铁长剑"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "C_001": {
+    "id": "C_001",
+    "name": "Lin Fan",
+    "role": "protagonist",
+    "life_status": "alive",
+    "injury_level": 0,
+    "tier_rank": 1
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "loc_001": {
+    "id": "loc_001",
+    "name": "万仙台",
+    "type": "location",
+    "faction": "太衍仙宗",
+    "sensory_anchor": "耸立于云海之上的万丈白玉广场，悬浮三千青玉剑碑，山风猎猎吹拂云层",
+    "environment_rules": "受宗门护山绝阵威压护持，金丹以下严禁御空，广场内外禁止擅动私刑与喧哗",
+    "status": "active"
+  },
+  "loc_002": {
+    "id": "loc_002",
+    "name": "天绝峰",
+    "type": "location",
+    "faction": "太衍仙宗",
+    "sensory_anchor": "直插九霄的冰封险峰，终年风雪不息，极寒玄冰铸就的帝尊静修洞府",
+    "environment_rules": "女帝极寒道域笼罩，非奉诏者踏入半步立被冻绝生机",
+    "status": "active"
+  },
+  "loc_003": {
+    "id": "loc_003",
+    "name": "外门杂役院",
+    "type": "location",
+    "faction": "太衍仙宗",
+    "sensory_anchor": "主峰脚下狭窄逼仄的低矮青石院落，劈柴柴垛与简陋石屋错落，灵气微弱",
+    "environment_rules": "受外门执事堂律令管辖，每日卯时劳作，门禁森严",
+    "status": "active"
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "p_001": {
+    "id": "p_001",
+    "name": "陆沉",
+    "role": "protagonist",
+    "faction": "fac_001",
+    "tier_rank": 1,
+    "tier_name": "外门杂役弟子",
+    "power_benchmark": "肉身气力略胜凡人，随身无锈残铁剑，尚未引气入体",
+    "life_status": "alive",
+    "injury_level": 0,
+    "sensory_anchor": "洗得发白的灰色粗布杂役袍、腰间半枚断裂的青木铭牌、下颌微收目光平静如幽潭",
+    "motivation": "借天道轮回天幕做局，引爆首世至尊剑骨日记，收割万灵情绪值具现无上帝道，超脱天道枷锁",
+    "cognitive_bias": "曾信奉隐忍求存，现以绝对理智高维操盘，杜绝一切廉价原谅与道德绑架",
+    "trump_cards": [
+      "九世轮回编造系统",
+      "第一世剧本《风雪孤庙与至尊剑骨》",
+      "高维神念绝对屏蔽结界"
+    ],
+    "address_matrix": {
+      "南宫琉璃": "南宫宗主 / 宗主",
+      "赵天成": "赵管事"
+    }
+  },
+  "p_002": {
+    "id": "p_002",
+    "name": "赵天成",
+    "role": "antagonist",
+    "faction": "fac_001",
+    "tier_rank": 1,
+    "tier_name": "太衍仙宗外门大管事（筑基后期）",
+    "power_benchmark": "挥袖震碎青石地面，掌力压迫外门杂役无法喘息",
+    "life_status": "alive",
+    "injury_level": 0,
+    "sensory_anchor": "锦缎青云管事长袍、右手大拇指镶红宝的玄铁扳指、下巴微抬的傲慢姿态",
+    "motivation": "借大典立威清洗杂役，侵吞克扣宗门灵石补贴，讨好内门以图高升",
+    "cognitive_bias": "信奉杂役命如草芥，深信依附内门权柄便可肆意主宰凡微性命，盲目自大",
+    "trump_cards": [
+      "青煞夺命钉",
+      "保命金刚符",
+      "外门执法堂四名铁卫"
+    ],
+    "address_matrix": {
+      "陆沉": "小杂役 / 陆沉",
+      "南宫琉璃": "老祖 / 宗主至尊"
+    }
+  },
+  "p_003": {
+    "id": "p_003",
+    "name": "南宫琉璃",
+    "role": "supporting",
+    "faction": "fac_001",
+    "tier_rank": 5,
+    "tier_name": "冰魄女帝 / 太衍仙宗开山祖师",
+    "power_benchmark": "周身千丈极寒绝对领域，一念冰封万里苍穹，执掌至尊剑骨与无上帝道",
+    "life_status": "alive",
+    "injury_level": 0,
+    "sensory_anchor": "白发如雪披拂腰际、九品冰魄雪羽道袍无风自动、凤目清冷如万载寒潭",
+    "motivation": "斩断红尘因果寻求无暇道心，勘破帝境极峰桎梏",
+    "cognitive_bias": "坚信自己生而神圣，七情六欲皆为大道阻碍，底层皆如草芥",
+    "trump_cards": [
+      "至尊剑骨",
+      "极道帝兵冰魄神剑",
+      "九品极道冰魄领域",
+      "万仙归一绝天剑阵"
+    ],
+    "address_matrix": {
+      "陆沉": "外门弟子陆沉 / 少年守墓人 / 陆沉",
+      "赵天成": "赵管事"
+    }
+  }
+}
